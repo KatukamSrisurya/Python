@@ -1,1 +1,0 @@
-print("My age is",24)
